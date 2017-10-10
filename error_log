@@ -1,0 +1,9 @@
+[10-Mar-2016 17:41:58 UTC] PHP Fatal error:  Call to undefined function wp_mail() in /home/srikanth0598/public_html/wp-content/themes/livevideoshub_new/form.php on line 17
+[10-Mar-2016 17:41:58 UTC] PHP Fatal error:  Call to undefined function wp_mail() in /home/srikanth0598/public_html/wp-content/themes/livevideoshub_new/form.php on line 17
+[10-Mar-2016 17:43:28 UTC] PHP Fatal error:  Call to undefined function wp_mail() in /home/srikanth0598/public_html/wp-content/themes/livevideoshub_new/form.php on line 17
+[10-Mar-2016 17:43:28 UTC] PHP Fatal error:  Call to undefined function wp_mail() in /home/srikanth0598/public_html/wp-content/themes/livevideoshub_new/form.php on line 17
+[10-Mar-2016 17:45:06 UTC] PHP Fatal error:  Call to undefined function wp_mail() in /home/srikanth0598/public_html/wp-content/themes/livevideoshub_new/form.php on line 17
+[10-Mar-2016 17:45:06 UTC] PHP Fatal error:  Call to undefined function wp_mail() in /home/srikanth0598/public_html/wp-content/themes/livevideoshub_new/form.php on line 17
+[26-Mar-2016 12:36:18 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/srikanth0598/public_html/wp-content/themes/livevideoshub_new/index.php on line 1
+[28-Mar-2016 20:40:25 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/srikanth0598/public_html/wp-content/themes/livevideoshub_new/index.php on line 1
+[01-Jun-2017 19:23:13 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/srikanth0598/liveaudiosongs.com/wp-content/themes/liveaudiosongs/index.php on line 1
